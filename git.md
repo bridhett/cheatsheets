@@ -14,6 +14,13 @@ Make a new repo on Github.com, so you can copy the URL:
 
 `git push origin master`: push to github.com!
 
+### pulling from git
+
+`git clone https://github.com/USERNAME/REP.git`: clone a repo.
+**make sure to be in the folder you want the repo in**
+
+`git pull origin master`: pulls new changes committed from git.
+
 ### notes:
 
 `gitignore`: this file lets you set which files and folders are ignored by git.
