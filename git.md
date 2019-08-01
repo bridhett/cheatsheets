@@ -25,6 +25,8 @@ Make a new repo on Github.com, so you can copy the URL:
 
 `git checkout BRANCHNAME`: command to switch to a different branch in your repo.
 
+`git branch`: let's you see what branch you are in currently and what other branches there are in the repo. 
+
 `git status`: you can run this to check the files that need to be committed or added to master.
 
 `gitignore`: this file lets you set which files and folders are ignored by git.
