@@ -23,5 +23,10 @@ Make a new repo on Github.com, so you can copy the URL:
 
 ### notes:
 
+`git checkout BRANCHNAME`: command to switch to a different branch in your repo.
+
+`git status`: you can run this to check the files that need to be committed or added to master.
+
 `gitignore`: this file lets you set which files and folders are ignored by git.
 (not neccessary if you used create-react-app, it does it for you)
+
